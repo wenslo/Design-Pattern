@@ -1,4 +1,4 @@
-package com.github.webslo.designpattern.headfirst.init.step1;
+package com.github.webslo.designpattern.headfirst.chapter1_strategy.step1;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
  * @description
  */
 public abstract class Duck {
-    private Logger logger = LoggerFactory.getLogger(getClass());
+    private static final Logger logger = LoggerFactory.getLogger(Duck.class);
 
     protected void quack() {
         logger.debug("呱呱呱呱");
