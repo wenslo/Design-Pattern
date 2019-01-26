@@ -1,4 +1,4 @@
-package com.github.webslo.designpattern.headfirst.chapter2_observer.setp1;
+package com.github.webslo.designpattern.headfirst.chapter2_observer.step1;
 
 /**
  * @author wenhailin
@@ -6,7 +6,7 @@ package com.github.webslo.designpattern.headfirst.chapter2_observer.setp1;
  * @createTime 2019-01-26 18:56
  * @description
  */
-public class ForecastDisplay {
+public class StatisticsDisplay {
     public void update(String s1, String s2, String s3) {
 
     }

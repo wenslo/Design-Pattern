@@ -1,4 +1,4 @@
-package com.github.webslo.designpattern.headfirst.chapter2_observer.setp1;
+package com.github.webslo.designpattern.headfirst.chapter2_observer.step1;
 
 /**
  * @author wenhailin
